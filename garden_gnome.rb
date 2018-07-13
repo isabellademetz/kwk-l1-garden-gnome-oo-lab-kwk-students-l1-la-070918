@@ -1,6 +1,6 @@
 # Code your instances here
 class GardenGnome
-attr(name, age, gluten_allergy, personality, hat_color = "red")
+attr_accessible(name, age, gluten_allergy, personality, hat_color = "red")
     @name = name
     @age = age
     @gluten_alergy = gluten_alergy
