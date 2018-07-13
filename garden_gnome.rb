@@ -1,7 +1,7 @@
 # Code your instances here
 class GardenGnome
 attr_accessible :name, :age, :gluten_allergy, :hat_color 
-   attr_reader :personality, :gnaw, :shout, :
+   attr_reader :personality, :gnaw, :shout, :introduce_self
   def name
     @name
   end
