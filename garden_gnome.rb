@@ -9,7 +9,7 @@ attr_reader :personality, :gnaw, :shout, :introduce_self
 end
 
   def gnaw
-    return "Gnawing on a tree!!"
+    return "Gnawing on a tree!!!"
   end
   def shout
     return "GNARLY!!!"
