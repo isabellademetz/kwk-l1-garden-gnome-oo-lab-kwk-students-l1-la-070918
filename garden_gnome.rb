@@ -1,6 +1,6 @@
 # Code your instances here
 class GardenGnome
-  def initialize(name, age, gluten_allergy, personality, hat_color = "red")
+attr(name, age, gluten_allergy, personality, hat_color = "red")
     @name = name
     @age = age
     @gluten_alergy = gluten_alergy
