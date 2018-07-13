@@ -5,6 +5,7 @@ class GardenGnome
     @age = age
     @gluten_alergy = gluten_alergy
     @personality = "evil"
+    @hat_color = hat color
   def name
     @name
   end
